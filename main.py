@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore')
 absl.logging.set_verbosity(absl.logging.ERROR)
 
 # Set your API key for Google Generative AI
-GOOGLE_API_KEY = "AIzaSyDPbPU525_fCzGsfChvo4qLpYnyKZRwX6k"  # Updated API key
+GOOGLE_API_KEY = "ur api"  # Updated API key
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # Define detection types
